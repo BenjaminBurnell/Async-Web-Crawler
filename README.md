@@ -74,10 +74,8 @@ Enter a word or phrase to search: python async
 
 ## Future Enhancements
 
-* Add **TF-IDF scoring** for more accurate relevance ranking.
 * Implement **exact phrase search** and **fuzzy search**.
 * Persist the inverted index using **SQLite** or **pickle** to avoid re-crawling pages.
-* Respect **robots.txt** rules and implement domain-specific throttling.
 * Add a **CLI or web interface** for live search queries.
 * Enhance **tokenization** with stemming and lemmatization for better word matching.
 * Enable **automatic crawling of internal links** to index entire websites.
