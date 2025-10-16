@@ -88,7 +88,7 @@ Enter a word or phrase to search: python async
 
 MIT License © 2025 Benjamin Burnell
 
-Free to use, modify, and distribute under the MIT License.
+You’re free to use, modify, and distribute this project under the terms of the MIT License.
 
 ---
 
