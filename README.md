@@ -1,8 +1,8 @@
-# Async Mini Search Engine
+# Async Web Crawler
 
 ## Overview
 
-**Async Mini Search Engine** is a lightweight Python project that crawls websites asynchronously, indexes page content, and allows keyword or phrase searches across the indexed pages.
+**Async Web Crawler** is a lightweight Python project that crawls websites asynchronously, indexes page content, and allows keyword or phrase searches across the indexed pages.
 It demonstrates core concepts in **asynchronous programming, web scraping, and information retrieval**, giving you a hands-on mini search engine experience.
 
 ---
