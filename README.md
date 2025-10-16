@@ -94,6 +94,5 @@ Free to use, modify, and distribute under the MIT License.
 
 ## Credits
 
-Developed by **Benjamin Burnell**
-
+Developed by **Benjamin Burnell**  
 Powered by **aiohttp**, **BeautifulSoup4**, and Python’s standard libraries.
