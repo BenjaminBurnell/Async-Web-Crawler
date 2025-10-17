@@ -31,8 +31,8 @@ It demonstrates core concepts in **asynchronous programming, web scraping, and i
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/async-search-engine.git
-cd async-search-engine
+git clone https://github.com/benjaminburnell/async-web-crawler
+cd async-web-crawler
 ```
 
 ### 2. Create a virtual environment
