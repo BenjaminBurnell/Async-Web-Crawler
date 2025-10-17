@@ -31,7 +31,7 @@ It demonstrates core concepts in **asynchronous programming, web scraping, and i
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/benjaminburnell/async-web-crawler
+git clone https://github.com/BenjaminBurnell/Async-Web-Crawler
 cd async-web-crawler
 ```
 
